@@ -1,0 +1,7 @@
+6
+append 1
+append 2
+append 3
+update 2 5
+delete 1
+print
